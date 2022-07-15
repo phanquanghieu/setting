@@ -1,0 +1,97 @@
+{
+  "workbench.colorTheme": "One Monokai",
+  "workbench.iconTheme": "material-icon-theme",
+  "breadcrumbs.enabled": false,
+  "editor.tabSize": 2,
+  "editor.fontSize": 16,
+  "editor.formatOnSave": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.semanticTokenColorCustomizations": {
+    "enabled": true
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "keyword.operator, keyword.operator.logical",
+        "settings": {
+          "foreground": "#f43f5e"
+        }
+      },
+      {
+        "scope": "entity.name.function",
+        "settings": {
+          "foreground": "#00ffaa"
+        }
+      },
+      {
+        "scope": "entity.other.attribute-name",
+        "settings": {
+          "foreground": "#01ffff",
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": "variable.other",
+        "settings": {
+          "foreground": "#ffffff"
+        }
+      },
+      {
+        "scope": "string.quoted",
+        "settings": {
+          "foreground": "#fef08a"
+        }
+      },
+      {
+        "scope": "meta.function",
+        "settings": {
+          "foreground": "#ffffff"
+        }
+      }
+    ]
+  },
+  "workbench.colorCustomizations": {
+    "editor.background": "#000",
+    "banner.background": "#000",
+    "breadcrumb.background": "#000",
+    "menu.background": "#000",
+    "sideBar.background": "#000",
+    "panel.background": "#000",
+    "sideBarSectionHeader.background": "#000",
+    "statusBar.background": "#000",
+    "editorPane.background": "#000",
+    "activityBar.background": "#000",
+    "tab.activeBackground": "#222",
+    "tab.inactiveBackground": "#000",
+    "titleBar.activeBackground": "#000",
+    "editorGroupHeader.tabsBackground": "#000",
+    "editorGroupHeader.border": "#01ffff",
+    "activityBar.border": "#01ffff",
+    "statusBar.border": "#01ffff",
+    "sideBar.border": "#01ffff",
+    "titleBar.border": "#01ffff",
+    "panel.border": "#01ffff",
+    "activityBar.activeBorder": "#00ffaa"
+  },
+  
+  "prettier.arrowParens": "always",
+  "prettier.bracketSpacing": true,
+  "prettier.embeddedLanguageFormatting": "auto",
+  "prettier.htmlWhitespaceSensitivity": "css",
+  "prettier.insertPragma": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.printWidth": 100,
+  "prettier.proseWrap": "preserve",
+  "prettier.quoteProps": "as-needed",
+  "prettier.requirePragma": false,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "prettier.trailingComma": "es5",
+  "prettier.useTabs": false,
+  "prettier.vueIndentScriptAndStyle": false,
+
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "tabnine.experimentalAutoImports": true,
+  "cSpell.userWords": ["dotenv", "hentity", "onupdate", "Selecteds", "sqlalchemy", "todos"]
+}
