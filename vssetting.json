@@ -3,7 +3,7 @@
   "workbench.iconTheme": "material-icon-theme",
   "breadcrumbs.enabled": false,
   "editor.tabSize": 2,
-  "editor.fontSize": 16,
+  "editor.fontSize": 13,
   "editor.formatOnSave": false,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.semanticTokenColorCustomizations": {
@@ -90,8 +90,5 @@
   "prettier.trailingComma": "es5",
   "prettier.useTabs": false,
   "prettier.vueIndentScriptAndStyle": false,
-
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "tabnine.experimentalAutoImports": true,
   "cSpell.userWords": ["dotenv", "hentity", "onupdate", "Selecteds", "sqlalchemy", "todos"]
 }
