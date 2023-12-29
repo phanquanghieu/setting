@@ -1,7 +1,6 @@
 {
   "workbench.colorTheme": "One Monokai",
   "workbench.iconTheme": "material-icon-theme",
-  "breadcrumbs.enabled": false,
   "editor.tabSize": 2,
   "editor.fontSize": 13,
   "editor.formatOnSave": false,
@@ -73,7 +72,6 @@
     "panel.border": "#01ffff",
     "activityBar.activeBorder": "#00ffaa"
   },
-  
   "prettier.arrowParens": "always",
   "prettier.bracketSpacing": true,
   "prettier.embeddedLanguageFormatting": "auto",
@@ -90,5 +88,32 @@
   "prettier.trailingComma": "es5",
   "prettier.useTabs": false,
   "prettier.vueIndentScriptAndStyle": false,
-  "cSpell.userWords": ["dotenv", "hentity", "onupdate", "Selecteds", "sqlalchemy", "todos"]
+  "cSpell.userWords": [
+    "Antd",
+    "clsx",
+    "Datas",
+    "dotenv",
+    "eshop",
+    "hentity",
+    "hieupq",
+    "metabucket",
+    "nestjs",
+    "onupdate",
+    "otps",
+    "Selecteds",
+    "sqlalchemy",
+    "tailwindcss",
+    "todos",
+    "typeorm",
+    "zustand"
+  ],
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.env.osx": {},
+  "workbench.startupEditor": "none"
 }
